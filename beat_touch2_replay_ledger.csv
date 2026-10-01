@@ -1,2 +1,0 @@
-fill_id,trade_ms,side,rung,entry_px,anchor_px,notional_usd,result,duration_ms,mae_bps,gross_bps,net_bps,net_usd
-1,1790629824363,BUY,T2,0.0915,0.0917,25.0,TIMEOUT,300000,5.46,16.39,12.79,0.032
